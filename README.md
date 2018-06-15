@@ -10,6 +10,12 @@ R06922026 柯東爵
 
 ## Introduction
 
+## Demo Video
+
+In repository named `DemoVideo.mov`
+or
+[YouTube](https://www.youtube.com/watch?v=Po6TzwhD_S8&feature=youtu.be)
+
 ## Pic2Go-Server
 
 Server for Pic2Go, written in `python3` with `Flask`.
