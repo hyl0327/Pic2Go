@@ -7,6 +7,8 @@ For most people, that'd be a luxurious dream that takes many years of hard-worki
 
 Whenever you see a picture of a beautiful but faraway place that you want to go, you'd just download that picture, upload it to Pic2Go, and it'll find you the most similar, and as beautiful, places around in Taiwan. So, what are you waiting for? See where you can go, and go where you can see.
 
+Check out our poster at https://drive.google.com/file/d/1pZ4C_jid4DlUx6kQC164sRgC8kJMOIlb/view.
+
 
 ## Members
 
