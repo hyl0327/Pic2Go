@@ -1,13 +1,11 @@
 Pic2Go
 ======
 
-See where you can go, and go where you can see.
-
 Pic2Go is an iOS application that takes you to the local places that you'd like to go. Imagine that one day you see a beautiful picture on Instagram; it's a scenic place faraway from your country, say, the Niagara Falls, and you're like, "Wow, that's spectacular. Wish one day I could go see it in person."
 
 For most people, that'd be a luxurious dream that takes many years of hard-working before it finally comes true. However, you don't really have to go to such a faraway place to see a breathtaking waterfall. In fact, there are an abundance of gorgeous waterfalls in Taiwan. Maybe they're not that much awe-inspiring, but they're far from not being as magnificent as the Niagara Falls to be worth your time taking a trip to. But how do you know where those waterfalls are? That's what Pic2Go will tell you.
 
-Whenever you see a picture of a beautiful but faraway place that you want to go, you'd just download that picture, upload it to Pic2Go, and it'll find you the most similar, and as beautiful, places around in Taiwan. So, what to wait for? Let Pic2Go bring you to anywhere you can see.
+Whenever you see a picture of a beautiful but faraway place that you want to go, you'd just download that picture, upload it to Pic2Go, and it'll find you the most similar, and as beautiful, places around in Taiwan. So, what are you waiting for? See where you can go, and go where you can see.
 
 
 ## Members
