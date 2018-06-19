@@ -5,7 +5,7 @@ Pic2Go is an iOS application that takes you to the places that you'd like to go.
 
 For most people, that'd be a luxurious dream that takes many years of hard-working before it finally comes true. However, you don't really have to go to such a faraway place to see a breathtaking waterfall. In fact, there are a bunch of gorgeous waterfalls in Taiwan. Maybe they're not that much awe-inspiring as the Niagara Falls, but they're barely not magnificent enough to be worth your time taking a trip to.
 
-But, how do you know where those waterfalls are? That's what Pic2Go will tell you! Whenever you see a picture of a beautiful but faraway place that you want to go, you'd just download that picture, upload it to Pic2Go, and it'll find you the most similar, and as beautiful, places around in Taiwan. So, what are you waiting for? See where you can go, and go where you can see.
+But, how do you find these waterfalls? That's what Pic2Go will tell you! Whenever you see a picture of a beautiful but faraway place that you want to go, you'd just download that picture, upload it to Pic2Go, and it'll find you the most similar, and as beautiful, places around in Taiwan. So, what are you waiting for? See where you can go, and go where you can see.
 
 To look into more details, please be sure to check out our [poster](https://drive.google.com/file/d/1pZ4C_jid4DlUx6kQC164sRgC8kJMOIlb/view).
 
