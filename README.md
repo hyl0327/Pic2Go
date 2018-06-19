@@ -1,37 +1,43 @@
-# Pic2Go
+Pic2Go
+======
 
 See where you can go, and go where you can see.
 
-## Member
+Pic2Go is an iOS application that takes you to the local places that you'd like to go. Imagine that one day you see a beautiful picture on Instagram; it's a scenic place faraway from your country, say, the Niagara Falls, and you're like, "Wow, that's spectacular. Wish one day I could go see it in person."
 
-B02505012 梁浩穎
-R06922055 吳均庭
-R06922026 柯東爵
+For most people, that'd be a luxurious dream that takes many years of hard-working before it finally comes true. However, you don't really have to go to such a faraway place to see a breathtaking waterfall. In fact, there are an abundance of gorgeous waterfalls in Taiwan. Maybe they're not that much awe-inspiring, but they're far from not being as magnificent as the Niagara Falls to be worth your time taking a trip to. But how do you know where those waterfalls are? That's what Pic2Go will tell you.
 
-## Introduction
+Whenever you see a picture of a beautiful but faraway place that you want to go, you'd just download that picture, upload it to Pic2Go, and it'll find you the most similar, and as beautiful, places around in Taiwan. So, what to wait for? Let Pic2Go bring you to anywhere you can see.
 
-## Demo Video
 
-In repository named `DemoVideo.mov`
-or
-[YouTube](https://www.youtube.com/watch?v=Po6TzwhD_S8&feature=youtu.be)
+## Members
+
+* B02505012 梁浩穎
+* R06922055 吳均庭
+* R06922026 柯東爵
+
+
+## Screenshots & Demo Video
+
+Screenshots can be found in the repository at `screenshots/`, and the demo video can be found either in the repository at `DemoVideo.mov`, or [on YouTube](https://www.youtube.com/watch?v=Po6TzwhD_S8&feature=youtu.be).
+
 
 ## Pic2Go-Server
 
 Server for Pic2Go, written in `python3` with `Flask`.
 
-
-### Usage (For Development ONLY)
+#### Usage (For Development ONLY)
 
 1. (Preferably in a Virtualenv) `pip install -r requirements.txt`
 2. `env FLASK_APP=pic2go.py FLASK_ENVIRONMENT=development flask run`
 3. `curl -F 'pic=@test.jpg' 'http://127.0.0.1:5000/'`
 
-## Pic2Go Client
+
+## Pic2Go-Client
 
 iOS Client for Pic2Go, written in `swift`.
 
-### Environment
+#### Environment
 
 * Xcode 9.3 
 * Swift 4 
@@ -39,20 +45,7 @@ iOS Client for Pic2Go, written in `swift`.
 * ruby 2.5.0
 * Alamofire 4.7
 
-### Installing
+#### Usage
 
-A step by step series of examples that tell you how to get a development env running
-
-[Alamofire source](https://github.com/Alamofire/Alamofire)
-
-Install CocaPods
-
-```
-gem install cocoapods
-```
-
-And
-
-```
-pod install
-```
+1. gem install cocoapods
+2. pod install
